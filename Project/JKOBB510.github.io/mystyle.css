@@ -1,0 +1,12 @@
+body {
+ background-image: url("background.jpg");
+ background-color: #cccccc;
+ color: black;
+ font: 12px sans-serif;
+}
+.self-image {
+ width: 300px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
